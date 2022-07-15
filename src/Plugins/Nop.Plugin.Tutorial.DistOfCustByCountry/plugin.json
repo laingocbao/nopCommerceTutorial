@@ -1,0 +1,11 @@
+{
+  "Group": "Tutorial",
+  "FriendlyName": "Dist Of Customers By Country",
+  "SystemName": "Tutorial.DistOfCustByCountry",
+  "Version": "1.49",
+  "SupportedVersions": [ "4.50" ],
+  "Author": "nopCommerce team",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Tutorial.DistOfCustByCountry.dll",
+  "Description": "This plugin allows paying with PayPal Standard"
+}
